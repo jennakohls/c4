@@ -78,3 +78,7 @@ typings/
 
 # End of https://www.gitignore.io/api/node
 dist/
+src/.DS_Store
+src/board/.DS_Store
+src/game/.DS_Store
+src/player/.DS_Store
